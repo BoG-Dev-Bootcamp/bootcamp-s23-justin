@@ -1,0 +1,1 @@
+I am creating and editing this text file using the echo command
